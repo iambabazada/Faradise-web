@@ -1,0 +1,2 @@
+# Faradise-web
+Blog
