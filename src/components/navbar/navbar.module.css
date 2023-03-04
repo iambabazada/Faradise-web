@@ -15,4 +15,5 @@
     display: flex;
     gap: 2rem;
     color: var(--primary-color);
+    background: red;
 }
