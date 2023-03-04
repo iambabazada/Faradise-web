@@ -1,0 +1,38 @@
+:root {
+    /*------ sizes ---------*/
+
+    --header-height: 6.25rem;
+    --section-border-width: 0.5px;
+
+    /*----- hero section variables -----*/
+
+    --slogan-font-size: 3.75rem;
+    --slogan-font-weight: 600;
+
+    /*------ button ---------*/
+
+    --btn-border-width: 0.3px;
+
+    /*---- input ------*/
+
+    --input-border-width: 1px;
+    --input-font-family: 'Roboto' sans-serif;
+    --input-font-weight: 400;
+    --input-font-size: 1rem;
+
+    /*------ color-assets -----*/
+
+    --header-bg-blur: 0.7rem;
+    --besign-green-dot-color: #2affa5;
+    --error-color: #ef233c;
+
+    /*----- animations ------*/
+
+    --animation-spin-duration: 20s;
+
+    /*------ colors ---------*/
+    --primary-color: #1d4851;
+    --secondary-color: #9ab5bc;
+    --text-color: #ff9001;
+
+}
